@@ -1,2 +1,2 @@
 # jd2r.github.io
- - a webpage. my webpage.
+a webpage. my webpage.
